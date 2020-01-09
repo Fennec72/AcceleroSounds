@@ -1,0 +1,1 @@
+L’idée de départ est une app pour iOS et iPad (à partir d’iOS 10) dont le but aurait été d’avoir une petite forme dont le déplacement en fonction des mouvements de l’iPhone ou l’iPad aurait produit des sons différents en fonction de la position sur l’écran et éventuellement en fonction de la vitesse du mouvement. 
